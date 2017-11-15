@@ -491,9 +491,9 @@ border: 2px solid #fff;
 	margin:0 auto;
 }
 .team-leader-box{
-	width:30.66%;
-	margin-right: 3.82979%;
-	height: 400px;
+	width:250px;
+	margin-right: 9.82979%;
+	height: 350px;
 	overflow: hidden;
 	text-align: center;
 	float: left;
@@ -533,8 +533,8 @@ border: 2px solid #fff;
 }
 .team-leader:hover ul{ display:block; opacity:1}
 .team-leader img{
-	width: 500px;
-	height: 300px;
+	width: 250px;
+	height: 250px;
 	display:block;
 	border-radius:50%;
 }
